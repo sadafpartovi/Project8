@@ -26,7 +26,7 @@ h1{
     right: 0;
     top: 0;
     bottom: 0;
-    background: rgba(100, 100, 100, 0.4)
+    background: rgba(100, 100, 100, 0.4);
 }
 
 .hidden {
@@ -63,6 +63,7 @@ button {
     border: 1px solid lightgray;
     border-radius: 5px;
     padding: 0 5%;
+    
     margin: 0;
     line-height: 40%;
     display: flex;
@@ -76,8 +77,11 @@ button {
 
 img {
     border-radius: 50%;
-    height: 75%;
-    margin: auto;
+    height: 65%;
+    margin-left: -20px;
+    margin-right: 2%;
+    margin-top: 7%;
+    padding-right: 5px;
 }
 
 .text-container {
